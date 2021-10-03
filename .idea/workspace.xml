@@ -2,12 +2,41 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="springMVC-01-servlet:war exploded" />
-      <artifact name="springMVC-05-json:war exploded" />
+      <artifact name="springMVC-06-json:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f638744-b14f-44d7-885b-07bc0e69d0c8" name="Default Changelist" comment="" />
+    <list default="true" id="2f638744-b14f-44d7-885b-07bc0e69d0c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC_05_json_war_exploded3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springMVC_06_json_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-05-json/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-06-json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-06-json/src/main/java/com/hl/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-06-json/src/main/java/com/hl/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-06-json/src/main/java/com/hl/util/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-06-json/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-06-json/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/springMVC_05_json_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springMVC_05_json_war_exploded/WEB-INF/classes/springmvc-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-01-servlet/springMVC-01-servlet.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-02-helloMVC/springMVC-02-helloMVC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-03-helloMVCAonn/springMVC-03-helloMVCAonn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-06-json/springMVC-06-json.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-04-controller/springMVC-04-controller.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/springMVC-05-json.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-05-json/springMVC-05-json.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/src/main/java/com/hl/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/src/main/java/com/hl/pojo/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/src/main/resources/springmvc-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/target/classes/com/hl/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/target/classes/com/hl/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/target/classes/springmvc-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/web/WEB-INF/json_01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-05-json/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-05-json/web/index.jsp" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +50,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -44,23 +76,33 @@
     </option>
   </component>
   <component name="ProjectId" id="1yvZ3vmIEZt0DJCwP5UCh7rBYBG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springMVC-05-json/web/WEB-INF" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.20401338" />
+    <property name="project.structure.side.proportion" value="0.4296875" />
     <property name="settings.editor.selected.configurable" value="spring.boot" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SpringMVC-Study\springMVC-05-json\web\WEB-INF" />
+      <recent name="D:\SpringMVC-Study\springMVC-05-json\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SpringMVC-Study\springMVC-05-json\web" />
       <recent name="D:\springMVC-Study\springMVC-04-controller\web\WEB-INF\jsp" />
     </key>
   </component>
@@ -81,14 +123,14 @@
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="springMVC-05-json:war exploded">
+        <artifact name="springMVC-06-json:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_springMVC-Study" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpringMVC-Study_3" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -96,7 +138,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="17337" />
+        <option name="DEBUG_PORT" value="29964" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -146,8 +188,7 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="springMVC-01-servlet:war exploded" />
-          <artifact name="springMVC-05-json:war exploded" />
+          <artifact name="springMVC-06-json:war exploded" />
         </option>
       </method>
     </configuration>
@@ -163,20 +204,26 @@
       <option name="presentableId" value="Default" />
       <updated>1633133826733</updated>
       <workItem from="1633133829999" duration="18610000" />
+      <workItem from="1633183973547" duration="280000" />
+      <workItem from="1633184278694" duration="3981000" />
+      <workItem from="1633230450406" duration="5843000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/springMVC-05-json/web/index.jsp</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
