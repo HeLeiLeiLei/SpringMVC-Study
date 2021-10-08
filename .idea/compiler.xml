@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springMVC-05-json" />
         <module name="springMVC-06-json" />
+        <module name="springMVC-07-Interceptor" />
         <module name="springMVC-03-helloMVCAonn" />
         <module name="springMVC-01-servlet" />
         <module name="springMVC-04-controller" />
